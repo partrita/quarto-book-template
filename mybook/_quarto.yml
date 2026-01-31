@@ -17,10 +17,8 @@ bibliography: references.bib
 format:
   html:
     theme:
-      - cosmo
+      - default
       - brand
-  pdf:
-    documentclass: scrreprt
 
 execute:
   freeze: auto
